@@ -10,3 +10,5 @@ See [cypress-io/github-action](https://github.com/cypress-io/github-action)
 [badges url]: https://github.com/bahmutov/cypress-gh-action-small-example/actions
 [renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
 [renovate-app]: https://renovateapp.com/
+
+testing
